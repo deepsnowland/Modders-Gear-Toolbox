@@ -1,0 +1,10 @@
+scene=BlackrockPrisonSurvivalZone
+item=GEAR_GunParts p=-119.9224,227.1056,62.2494 r=-0.0000,34.7306,-0.0000 c=100
+item=GEAR_GunParts p=-119.8869,227.2221,62.2330 r=0.0000,221.6950,0.0000 c=25
+item=GEAR_GunParts p=-117.7321,226.1223,54.4071 r=0.0000,343.7303,0.0000 c=50
+
+scene=MaintenanceShedB
+item=GEAR_GunParts p=5.9502,0.5410,-13.7874 r=-0.0000,3.7544,-0.0000 c=100
+item=GEAR_GunParts p=5.9353,0.6575,-13.7672 r=0.0000,349.2494,0.0000 c=60
+item=GEAR_GunParts p=5.9737,0.5409,-13.4542 r=0.0000,354.6584,0.0000 c=30
+item=GEAR_GunParts p=3.1812,0.4455,-14.7972 r=-0.0000,1.6127,-0.0000 c=90

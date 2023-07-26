@@ -1,0 +1,23 @@
+scene=AirfieldWoodCabinA
+item=GEAR_RifleBroken p=2.0895,0.7719,-1.0860 r=284.9986,101.5877,0.0001 c=80
+
+scene=AshCabinF
+item=GEAR_RifleBroken p=1.7090,0.7900,3.3858 r=284.9994,1.7747,-0.0000 c=80
+
+scene=GreyMothersHouseA
+item=GEAR_RifleBroken p=5.2098,-0.1259,0.8219 r=30.0000,305.0524,-0.0000 c=80
+
+scene=BunkerC
+item=GEAR_RifleBroken p=1.4377,1.0267,15.4153 r=270.0000,131.6458,0.0000 c=80
+
+scene=HuntingLodgeA
+item=GEAR_RifleBroken p=0.8430,0.7700,5.0788 r=284.9978,359.6253,-0.0000 c=80
+
+scene=MaintenanceShedB
+item=GEAR_RifleBroken p=3.5152,0.7126,-14.7826 r=-0.0000,273.4550,-0.0000 c=100
+
+scene=PrepperCacheC
+item=GEAR_RifleBroken p=-1.8075,0.9100,-2.1128 r=284.9931,177.5396,0.0000 c=80
+
+scene=WhalingWarehouseA
+item=GEAR_RifleBroken p=12.9099,7.1000,23.4137 r=300.6030,355.4314,32.3567 c=100

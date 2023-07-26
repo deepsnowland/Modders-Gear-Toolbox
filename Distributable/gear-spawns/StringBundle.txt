@@ -1,0 +1,60 @@
+scene=AshCabinF
+item=GEAR_StringBundle p=2.3522,0.8133,0.9020 r=-0.0000,0.1693,-0.0000 c=80
+item=GEAR_StringBundle p=2.2904,0.8506,0.9028 r=270.0000,87.3690,0.0000 c=60
+
+scene=FarmHouseA
+item=GEAR_StringBundle p=-1.1841,4.5819,7.5132 r=0.0000,273.7924,0.0000 c=80
+item=GEAR_StringBundle p=-1.0690,4.6019,7.5492 r=270.0000,27.1006,0.0000 c=60
+
+scene=FarmHouseABasement
+item=GEAR_StringBundle p=-1.6002,1.8519,-9.0264 r=0.0000,190.6366,0.0000 c=80
+item=GEAR_StringBundle p=-1.6292,1.8519,-8.9309 r=0.0000,204.7416,0.0000 c=60
+
+scene=FarmHouseB
+item=GEAR_StringBundle p=7.0258,1.2019,0.4137 r=0.0000,315.0048,0.0000 c=80
+item=GEAR_StringBundle p=7.1014,1.2219,0.3237 r=270.0000,103.8065,0.0000 c=60
+
+scene=GreyMothersHouseA
+item=GEAR_StringBundle p=6.3537,4.1484,-1.9098 r=-0.0000,31.1277,-0.0000 c=80
+item=GEAR_StringBundle p=6.2220,4.1484,-1.8837 r=0.0000,184.6363,0.0000 c=60
+item=GEAR_StringBundle p=6.1509,4.1684,-1.9811 r=270.0000,179.1083,0.0000 c=40
+
+scene=BunkerA
+item=GEAR_StringBundle p=1.1637,0.1983,14.4403 r=286.5309,257.8781,133.0799 c=80
+item=GEAR_StringBundle p=1.0214,0.1743,14.3378 r=347.7935,4.6267,357.2865 c=60
+
+scene=BunkerB
+item=GEAR_StringBundle p=-1.3443,1.1512,5.1506 r=-0.0000,67.8305,-0.0000 c=80
+item=GEAR_StringBundle p=-1.1893,1.1712,5.1678 r=90.0000,102.6478,0.0000 c=60
+
+scene=BunkerC
+item=GEAR_StringBundle p=-1.6117,1.8142,7.9173 r=-0.0000,117.9519,-0.0000 c=80
+item=GEAR_StringBundle p=2.0727,1.1019,9.9730 r=359.0861,351.7427,358.4283 c=60
+item=GEAR_StringBundle p=1.9442,1.1219,9.9898 r=270.0000,325.4354,0.0000 c=40
+
+scene=HuntingLodgeA
+item=GEAR_StringBundle p=-3.4626,7.3347,-9.5104 r=0.0000,358.0277,0.0000 c=80
+item=GEAR_StringBundle p=-3.4905,7.3363,-9.4323 r=-0.0000,120.8484,-0.0000 c=60
+
+scene=CampOffice
+item=GEAR_StringBundle p=-1.2266,4.6069,3.6104 r=359.6925,15.2619,358.9258 c=80
+item=GEAR_StringBundle p=-1.2009,4.6256,3.4582 r=270.4752,355.5216,222.5615 c=60
+
+scene=ConvenienceStoreA
+item=GEAR_StringBundle p=-6.3300,1.2042,2.7049 r=0.0000,231.9082,0.0000 c=80
+item=GEAR_StringBundle p=-6.1776,1.2242,2.7066 r=270.0000,261.6337,0.0000 c=60
+
+scene=PrepperCacheB
+item=GEAR_StringBundle p=-3.1969,0.9776,-1.4060 r=270.0000,286.5135,0.0000 c=80
+item=GEAR_StringBundle p=-3.1630,0.9576,-1.5304 r=0.0000,357.6980,0.0000 c=60
+
+scene=PrepperCacheC
+item=GEAR_StringBundle p=3.1756,1.0155,-1.7692 r=0.0000,349.1534,0.0000 c=80
+item=GEAR_StringBundle p=3.0579,1.0155,-1.7380 r=-0.0000,34.8193,-0.0000 c=60
+
+scene=QuonsetGasStation
+item=GEAR_StringBundle p=5.8580,0.6073,4.0176 r=0.0000,342.8962,0.0000 c=80
+item=GEAR_StringBundle p=5.8904,0.6273,4.0935 r=270.0000,91.8725,0.0000 c=60
+
+loottable=LootTableFirstAidKit
+item=StringBundle w=5

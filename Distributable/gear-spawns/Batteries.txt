@@ -1,0 +1,63 @@
+scene=AFHangar
+item=GEAR_Battery9V p=-23.6917,4.8801,-11.3074 r=0.0000,322.2510,0.0000 c=50
+item=GEAR_Battery9V p=-23.6150,4.9001,-11.3702 r=90.0000,9.3810,0.0000 c=45
+item=GEAR_Battery9V p=-22.7384,0.3892,2.1843 r=-0.0000,109.7862,-0.0000 c=40
+item=GEAR_Battery9V p=-23.7888,1.1293,-4.3632 r=90.0000,207.2913,0.0000 c=35
+
+scene=AshCabinF
+item=GEAR_Battery9V p=2.1857,0.8109,1.0223 r=-0.0000,3.3616,-0.0000 c=50
+
+scene=BarnHouseA
+item=GEAR_Battery9V p=-6.9021,6.2682,0.4140 r=0.0000,124.4680,359.9138 c=50
+
+scene=Dam
+item=GEAR_Battery9V p=6.5951,1.0052,-5.1512 r=90.0000,343.0419,0.0000 c=50
+item=GEAR_Battery9V p=11.5288,0.9470,-20.2663 r=-0.0000,5.2114,-0.0000 c=45
+item=GEAR_Battery9V p=-15.3157,5.8970,-14.9160 r=-0.0000,168.8420,-0.0000 c=40
+
+scene=DamTransitionZone
+item=GEAR_Battery9V p=-76.6936,-4.6304,-10.8137 r=76.5640,183.5372,7.0349 c=50
+item=GEAR_Battery9V p=-45.2584,-8.7350,-0.4619 r=270.0000,327.7204,0.0000 c=45
+item=GEAR_Battery9V p=-6.3486,1.0577,-4.6313 r=0.0000,300.9557,0.0000 c=40
+
+scene=FarmHouseABasement
+item=GEAR_Battery9V p=-8.0420,1.4106,-0.7002 r=0.0000,345.8362,0.0000 c=50
+
+scene=GreyMothersHouseA
+item=GEAR_Battery9V p=2.0368,4.4822,1.8156 r=270.0000,349.9104,0.0000 c=50
+
+scene=BunkerA
+item=GEAR_Battery9V p=4.3596,1.1527,5.6568 r=-0.0000,114.3797,-0.0000 c=100
+item=GEAR_Battery9V p=1.1947,1.0680,8.3631 r=-0.0000,88.5825,-0.0000 c=100
+item=GEAR_Battery9V p=1.0824,0.1459,6.4258 r=90.0000,16.8171,0.0000 c=100
+
+scene=BunkerB
+item=GEAR_Battery9V p=7.3312,1.1495,9.6906 r=-0.0000,70.7600,-0.0000 c=100
+item=GEAR_Battery9V p=8.1406,0.4400,9.8285 r=90.0000,9.7357,0.0000 c=100
+
+scene=BunkerC
+item=GEAR_Battery9V p=-10.0762,-0.6381,11.7306 r=0.0000,268.4896,0.0000 c=100
+
+scene=ConvenienceStoreA
+item=GEAR_Battery9V p=-6.0385,1.2225,3.6800 r=270.0000,234.2061,0.0000 c=50
+
+scene=MaintenanceShedA
+item=GEAR_Battery9V p=-9.4773,1.2244,-27.0126 r=10.8871,266.0112,2.7915 c=50
+item=GEAR_Battery9V p=-5.3239,1.0926,-21.6113 r=90.0000,291.2085,0.0000 c=45
+item=GEAR_Battery9V p=-8.4717,1.2850,-13.3886 r=-0.0000,30.0449,-0.0000 c=40
+item=GEAR_Battery9V p=-8.5872,1.3050,-13.3599 r=270.0000,316.6877,0.0000 c=35
+
+scene=PrepperCacheD
+item=GEAR_Battery9V p=1.4598,1.0560,-3.2418 r=-0.0000,87.8624,-0.0000 c=100
+item=GEAR_Battery9V p=1.3217,1.0760,-3.2479 r=270.0000,221.0122,0.0000 c=100
+
+scene=QuonsetGasStation
+item=GEAR_Battery9V p=5.6799,0.2075,6.6498 r=-0.0000,83.6859,-0.0000 c=50
+item=GEAR_Battery9V p=5.7084,0.2275,6.7684 r=270.0000,322.6875,0.0000 c=45
+
+loottable=LootTableToolChest
+item=Battery9V w=6
+loottable=LootTableToolChestDrawer
+item=Battery9V w=2
+loottable=LootTableWorkbench
+item=Battery9V w=3

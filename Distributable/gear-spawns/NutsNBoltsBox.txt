@@ -1,0 +1,79 @@
+scene=AFHangar
+item=GEAR_NutsNBoltsBox p=-23.4064,4.6313,17.1188 r=-0.0000,26.6127,-0.0000 c=90
+item=GEAR_NutsNBoltsBox p=-23.1923,4.6313,17.1677 r=0.0000,359.8396,0.0000 c=50
+item=GEAR_NutsNBoltsBox p=9.9125,-7.0398,11.2973 r=0.0000,341.2569,0.0000 c=100
+item=GEAR_NutsNBoltsBox p=9.7211,-7.0398,11.2806 r=-0.0000,7.8482,-0.0000 c=60
+item=GEAR_NutsNBoltsBox p=9.9069,-6.9164,11.3123 r=0.0000,319.3687,0.0000 c=30
+
+scene=AshCabinF
+item=GEAR_NutsNBoltsBox p=-1.7950,0.9309,-1.3216 r=-0.0000,99.1430,-0.0000 c=35
+
+scene=BarnHouseA
+item=GEAR_NutsNBoltsBox p=-7.0380,6.1137,5.7770 r=-0.0000,142.5614,359.9138 c=50
+item=GEAR_NutsNBoltsBox p=-6.9099,6.1137,5.9160 r=-0.0000,124.1296,359.9138 c=25
+
+scene=BlackRockTrailerB
+item=GEAR_NutsNBoltsBox p=-4.0133,1.1370,1.5137 r=0.0000,346.8505,0.0000 c=35
+
+scene=Dam
+item=GEAR_NutsNBoltsBox p=8.3816,1.0124,-7.9721 r=0.0000,335.0671,0.0000 c=50
+item=GEAR_NutsNBoltsBox p=11.7095,1.0038,-19.6275 r=-0.0000,93.3013,-0.0000 c=35
+item=GEAR_NutsNBoltsBox p=-5.9791,5.5980,-7.4757 r=-0.0000,10.4598,-0.0000 c=25
+
+scene=DamTransitionZone
+item=GEAR_NutsNBoltsBox p=-78.2032,-5.9423,-15.0802 r=0.0000,356.7592,0.0000 c=100
+item=GEAR_NutsNBoltsBox p=-77.9370,-5.8223,-15.0748 r=270.0000,47.8282,0.0000 c=50
+item=GEAR_NutsNBoltsBox p=-87.6790,-4.8072,-21.3663 r=0.0000,338.2669,0.0000 c=45
+item=GEAR_NutsNBoltsBox p=-46.2124,-7.7611,-1.8282 r=0.0000,337.9542,0.0000 c=40
+item=GEAR_NutsNBoltsBox p=-46.0685,-7.7611,-1.7001 r=-0.0000,9.1744,-0.0000 c=35
+item=GEAR_NutsNBoltsBox p=0.8502,0.9790,0.4276 r=0.0000,340.9303,0.0000 c=30
+item=GEAR_NutsNBoltsBox p=1.1077,0.9790,0.4099 r=-0.0000,75.2963,-0.0000 c=25
+
+scene=FarmHouseABasement
+item=GEAR_NutsNBoltsBox p=-0.1590,1.5542,-0.4180 r=-0.0000,135.9128,-0.0000 c=50
+
+scene=HouseBasementC
+item=GEAR_NutsNBoltsBox p=-1.9407,150.9637,-2.3082 r=0.0000,338.1624,0.0000 c=35
+
+scene=BunkerA
+item=GEAR_NutsNBoltsBox p=9.1978,1.6592,12.6726 r=-0.0000,176.2316,-0.0000 c=100
+item=GEAR_NutsNBoltsBox p=6.5305,0.5859,9.5262 r=0.0000,274.3038,0.0000 c=100
+
+scene=BunkerB
+item=GEAR_NutsNBoltsBox p=4.6055,1.2121,9.7755 r=-0.0000,3.6328,-0.0000 c=100
+
+scene=BunkerC
+item=GEAR_NutsNBoltsBox p=1.1339,1.0975,6.1325 r=0.0000,302.9098,0.0000 c=100
+item=GEAR_NutsNBoltsBox p=1.2795,1.0975,6.2633 r=0.0000,320.4040,0.0000 c=100	
+
+scene=HuntingLodgeA
+item=GEAR_NutsNBoltsBox p=-10.5211,-3.1034,2.2007 r=-0.0000,89.1498,-0.0000 c=35
+
+scene=CampOffice
+item=GEAR_NutsNBoltsBox p=-0.5905,1.0253,-5.8759 r=0.0000,284.5289,0.0000 c=50
+
+scene=ConvenienceStoreA
+item=GEAR_NutsNBoltsBox p=-6.0391,0.6034,7.6825 r=-0.0000,96.2788,-0.0000 c=50
+item=GEAR_NutsNBoltsBox p=-6.0627,0.6034,7.5156 r=-0.0000,107.2927,-0.0000 c=25
+
+scene=MaintenanceShedA
+item=GEAR_NutsNBoltsBox p=8.7406,1.3860,-20.7882 r=-0.0000,117.2901,90.0002 c=50
+item=GEAR_NutsNBoltsBox p=8.0257,0.0374,-20.8865 r=-0.0000,0.2874,-0.0000 c=25
+
+scene=PrepperCacheB
+item=GEAR_NutsNBoltsBox p=-3.2465,0.3088,-1.6322 r=0.0000,342.7738,0.0000 c=100
+item=GEAR_NutsNBoltsBox p=-3.4576,0.3088,-1.6384 r=-0.0000,10.6194,-0.0000 c=100
+
+scene=QuonsetGasStation
+item=GEAR_NutsNBoltsBox p=5.7734,0.6034,4.7634 r=0.0000,353.2677,0.0000 c=50
+item=GEAR_NutsNBoltsBox p=5.8682,0.2053,4.9461 r=-0.0000,66.7575,-0.0000 c=25
+
+scene=WhalingShipA
+item=GEAR_NutsNBoltsBox p=1.5336,2.7594,-15.4779 r=353.3194,19.5632,117.3313 c=35
+
+loottable=LootTableToolChest
+item=NutsNBoltsBox w=7
+loottable=LootTableToolChestDrawer
+item=NutsNBoltsBox w=5
+loottable=LootTableWorkbench
+item=NutsNBoltsBox w=3

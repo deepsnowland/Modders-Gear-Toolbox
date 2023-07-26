@@ -1,0 +1,31 @@
+scene=BlackrockSteamTunnelsASurvival
+item=GEAR_CeramicShards p=15.6388,-2.5448,-17.2647 r=4.1498,331.2979,3.1202 c=100
+item=GEAR_CeramicShards p=17.3875,-2.5788,-15.6713 r=3.7427,321.6252,359.4561 c=100
+item=GEAR_CeramicShards p=18.0014,-2.8183,-4.3934 r=3.7758,333.2807,0.2161 c=100
+item=GEAR_CeramicShards p=15.1858,0.3558,5.4936 r=16.9011,27.9604,9.6615 c=100
+item=GEAR_CeramicShards p=27.7596,0.2595,9.8121 r=345.1085,346.8226,350.3272 c=100
+item=GEAR_CeramicShards p=-9.5957,0.0613,11.3318 r=355.9889,26.2736,3.2968 c=100
+item=GEAR_CeramicShards p=-37.1358,0.0265,25.0788 r=359.2113,2.3123,359.2118 c=100
+item=GEAR_CeramicShards p=-43.2105,-0.0113,53.7586 r=0.0000,340.5187,0.0000 c=100
+item=GEAR_CeramicShards p=-44.1112,-0.0113,53.1720 r=-0.0000,84.4822,-0.0000 c=100
+item=GEAR_CeramicShards p=-18.1055,-0.5176,26.2508 r=359.4569,359.9732,3.9605 c=100
+item=GEAR_CeramicShards p=-12.1609,0.0111,30.0997 r=1.4096,359.8640,348.9789 c=100
+item=GEAR_CeramicShards p=-7.9332,0.0467,43.1660 r=5.6673,0.0044,0.0896 c=100
+item=GEAR_CeramicShards p=3.2448,0.0321,39.7783 r=1.8017,87.5333,0.5792 c=100
+item=GEAR_CeramicShards p=3.9792,0.0079,39.0988 r=1.8017,349.2961,0.5792 c=100
+item=GEAR_CeramicShards p=12.1013,0.0750,45.3026 r=348.3476,0.1250,358.8519 c=100
+
+scene=FarmHouseB
+item=GEAR_CeramicShards p=-0.5689,0.0151,-2.0409 r=-0.0000,24.1574,-0.0000 c=100
+item=GEAR_CeramicShards p=0.1564,0.0151,-2.3655 r=0.0000,337.3983,0.0000 c=100
+
+scene=GreyMothersHouseA
+item=GEAR_CeramicShards p=-1.1747,-0.5182,1.2789 r=359.4386,155.8850,355.4771 c=100
+item=GEAR_CeramicShards p=-1.3601,-0.5182,0.4312 r=0.5155,328.2617,4.1523 c=100
+
+scene=HuntingLodgeA
+item=GEAR_CeramicShards p=5.1973,0.0119,-3.8629 r=-0.0000,14.0375,-0.0000 c=100
+item=GEAR_CeramicShards p=4.3599,0.0119,-3.6385 r=-0.0000,78.3513,-0.0000 c=100
+
+loottable=LootTableTrash	
+item=CeramicShards w=6

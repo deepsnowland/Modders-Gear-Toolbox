@@ -1,0 +1,218 @@
+{
+	"GAMEPLAY_ElectronicParts" : {
+                            "English" : "Electronic Parts",
+							"Spanish (Spain)" : "Piezas electrónicas"
+    },
+    "GAMEPLAY_ElectronicPartsDescription" : {
+                            "English" : "A burned-out fuse and spare parts... might be useful.",
+							"Spanish (Spain)" : "Un fusible quemado y piezas sueltas... puede que sea útil."
+    },
+	"GAMEPLAY_GunParts" : {
+                            "English" : "Gun Parts",
+							"Spanish (Spain)" : "Piezas de arma"
+    },
+    "GAMEPLAY_GunPartsDescription" : {
+                            "English" : "A box full of parts harvested from a gun.",
+							"Spanish (Spain)" : "Una caja llena de piezas extraidas de un arma."
+    },
+	"GAMEPLAY_MetalBoxForge" : {
+                            "English" : "Metal Box",
+							"Spanish (Spain)" : "Caja metálica"
+    },
+    "GAMEPLAY_MetalBoxForgeDescription" : {
+                            "English" : "A big metal box that can be used for many things.",
+							"Spanish (Spain)" : "Una gran caja de metal que puede usarse para muchas cosas."
+    },
+	"GAMEPLAY_TarpSheet" : {
+							 "English" : "Tarp Sheet",
+							"Spanish (Spain)" : "Lona"
+	},
+	"GAMEPLAY_TarpSheetDescription" : {
+							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
+							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos."
+	},
+	"GAMEPLAY_TapeRoll" : {
+							"English" : "Tape Roll",
+							"Spanish (Spain)" : "Rollo de cinta"
+	},
+	"GAMEPLAY_TapeRollDescription" : {
+							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
+							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas."
+	},
+	"GAMEPLAY_CrumpledPaper" : {
+							 "English" : "Scrap Paper",
+							"Spanish (Spain)" : "Trozo de papel"
+	},
+	"GAMEPLAY_CrumpledPaperDescription" : {
+							"English" : "It's just paper. You could burn it.",
+							"Spanish (Spain)" : "Es solo papel. Podrías quemarlo."
+	},
+	"GAMEPLAY_ScrapPlastic" : {
+							 "English" : "Plastic Waste",
+							"Spanish (Spain)" : "Desechos plásticos"
+	},
+	"GAMEPLAY_ScrapPlasticDescription" : {
+							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
+							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado."
+	},
+	"GAMEPLAY_Flint" : {
+                            "English" : "Flint",
+							"Spanish (Spain)" : "Pedernal"
+    },
+    "GAMEPLAY_FlintDescription" : {
+                            "English" : "A piece of dark quartz that produces sparks when hit.",
+							"Spanish (Spain)" : "Un trozo de cuarzo oscuro que produce chispas al ser golpeado."
+    },
+	"GAMEPLAY_Rock" : {
+                            "English" : "Rock",
+							"Spanish (Spain)" : "Roca"
+    },
+    "GAMEPLAY_RockDescription" : {
+                            "English" : "Just a big, plain rock.",
+							"Spanish (Spain)" : "Es solo una roca grande y normal."
+    },
+	"GAMEPLAY_Bones" : {
+                            "English" : "Bone Fragments",
+							"Spanish (Spain)" : "Fragmentos de hueso"
+    },
+    "GAMEPLAY_BonesDescription" : {
+                            "English" : "Broken bones harvested from an animal.",
+							"Spanish (Spain)" : "Huesos rotos obtenidso de un animal."
+    },
+	"GAMEPLAY_Battery9V" : {
+                            "English" : "Battery",
+							"Spanish (Spain)" : "Batería"
+    },
+    "GAMEPLAY_Battery9VDescription" : {
+                            "English" : "A 9V battery, intended for industrial use. This little thing is probably the last place you will find electricity.",
+							"Spanish (Spain)" : "Una batería de 9V, destinada al uso industrial. Probablemente el único lugar donde encontrarás energía."
+    },
+	"GAMEPLAY_RifleBroken" : {
+                            "English" : "Broken Hunting Rifle",
+							"Spanish (Spain)" : "Rifle de caza roto"
+    },
+    "GAMEPLAY_RifleBrokenDescription" : {
+                            "English" : "An old .303 calibre bolt-action hunting rifle, broken beyond repair. Whoever owned this had a terrible end.",
+							"Spanish (Spain)" : "Un viejo rifle de caza del calibre .303, sin posibilidad de reparación. A quien sea que perteneció esto tuvo un fatídico final."
+    },
+	"GAMEPLAY_NutsNBolts" : {
+                            "English" : "Nuts and Bolts",
+							"Spanish (Spain)" : "Tornillos y tuercas"
+    },
+    "GAMEPLAY_NutsNBoltsDescription" : {
+                            "English" : "A bunch of assorted metal fasteners.",
+							"Spanish (Spain)" : "Un puñado variado de aseguradores metálicos."
+    },
+	"GAMEPLAY_NutsNBoltsBox" : {
+                            "English" : "Nuts and Bolts Box",
+							"Spanish (Spain)" : "Caja de tornillos y tuercas"
+    },
+    "GAMEPLAY_NutsNBoltsBoxDescription" : {
+                            "English" : "A box of assorted metal fasteners.",
+							"Spanish (Spain)" : "Una caja de aseguradores metálicos varios."
+    },
+	"GAMEPLAY_StringBundle" : {
+                            "English" : "String Bundle",
+							"Spanish (Spain)" : "Rollo de hilo"
+    },
+    "GAMEPLAY_StringBundleDescription" : {
+                            "English" : "A roll of nylon fibres meant for sewing.",
+							"Spanish (Spain)" : "Un rollo de fibras de nylon pensadas para coser."
+    },
+	"GAMEPLAY_StringDurable" : {
+                            "English" : "Durable String",
+							"Spanish (Spain)" : "Cuerda fuerte"
+    },
+    "GAMEPLAY_StringDurableDescription" : {
+                            "English" : "A roll of strong fibres that can be used for craft and repair.",
+							"Spanish (Spain)" : "Un rollo de fibras duraderas que pueden usarse para fabricar y reparar."
+    },
+	"GAMEPLAY_GlassShards" : {
+							 "English" : "Glass Shards",
+							"Spanish (Spain)" : "Trozos de cristal"
+	},
+	"GAMEPLAY_GlassShardsDescription" : {
+							"English" : "A couple of glass bottles, one of them broken. Be careful with that.",
+							"Spanish (Spain)" : "Un par de botellas de cristal, una de ellas rota. Ten cuidado con eso."
+	},
+	"GAMEPLAY_CeramicShards" : {
+							 "English" : "Ceramic Shards",
+							"Spanish (Spain)" : "Trozos de cerámica"
+	},
+	"GAMEPLAY_CeramicShardsDescription" : {
+							"English" : "Broken pieces of hardened clay.",
+							"Spanish (Spain)" : "Pedazos rotos de arcilla endurecida."
+	},
+	"GAMEPLAY_HeapSingle": {
+							"English" : "heap.",
+							"Spanish (Spain)" : "puñado."
+	},
+	"GAMEPLAY_HeapMultiple" : {
+							"English" : "heaps.",
+							"Spanish (Spain)" : "puñados."
+	},	
+	"GAMEPLAY_SheetSingle" : {
+							"English" : "sheet",
+							"Spanish (Spain)" : "lámina"
+	},
+	"GAMEPLAY_SheetMultiple" : {
+							"English" : "sheets",
+							"Spanish (Spain)" : "láminas"
+	},
+	"GAMEPLAY_ChunkSingle": {
+							"English" : "chunk.",
+							"Spanish (Spain)" : "pedazo."
+	},
+	"GAMEPLAY_ChunkMultiple" : {
+							"English" : "chunks.",
+							"Spanish (Spain)" : "pedazos."
+	},	
+	"GAMEPLAY_BatterySingle" : {
+							"English" : "battery",
+							"Spanish (Spain)" : "batería"
+	},
+	"GAMEPLAY_BatteryMultiple" : {
+							"English" : "batteries",
+							"Spanish (Spain)" : "baterías"
+	},
+	"GAMEPLAY_BoxSingle": {
+							"English" : "box.",
+							"Spanish (Spain)" : "caja."
+	},
+	"GAMEPLAY_BoxMultiple" : {
+							"English" : "boxes.",
+							"Spanish (Spain)" : "cajas."
+	},
+	"GAMEPLAY_RollSingle": {
+							"English" : "roll.",
+							"Spanish (Spain)" : "rollo."
+	},
+	"GAMEPLAY_RollMultiple" : {
+							"English" : "rolls.",
+							"Spanish (Spain)" : "rollos."
+	},
+	"GAMEPLAY_MTB_DismantleLabel" : {
+							"English" : "Dismantle",
+							"Spanish (Spain)" : "Desarmar"
+	},
+	"GAMEPLAY_MTB_DismantleProgressBar": {
+							"English" : "Dismantling...",
+							"Spanish (Spain)" : "Desarmando..."
+	},
+	"GAMEPLAY_MTB_NoDismantle" : {
+							"English" : "You can't dismantle a gun without tools.",
+							"Spanish (Spain)" : "No puedes desarmar un arma sin herramientas."
+	},
+	"GAMEPLAY_MTB_ReplenishLabel" : {
+							"English" : "Replenish",
+							"Spanish (Spain)" : "Reponer"
+	},
+	"GAMEPLAY_MTB_HighCondition": {
+							"English" : "This sewing kit still have enough string.",
+							"Spanish (Spain)" : "Este kit de costura aún tiene suficiente hilo."
+	},
+	"GAMEPLAY_MTB_NoString" : {
+							"English" : "You don't have enough string.",
+							"Spanish (Spain)" : "No tienes suficiente hilo."
+	}		
+}

@@ -1,0 +1,44 @@
+scene=AFHangar
+item=GEAR_GlassShards p=-23.8354,4.1086,0.1914 r=0.0000,224.4058,0.0000 c=100
+
+scene=AirfieldWoodCabinA
+item=GEAR_GlassShards p=0.5456,0.0069,2.2072 r=-0.0000,26.1354,-0.0000 c=100
+
+scene=AshCabinD
+item=GEAR_GlassShards p=1.0372,0.0049,0.3601 r=0.0000,359.5541,0.0000 c=100
+
+scene=Dam
+item=GEAR_GlassShards p=-24.4371,0.1434,-32.8383 r=-0.0000,147.3767,-0.0000 c=100
+
+scene=DamTransitionZone
+item=GEAR_GlassShards p=-13.2689,0.0049,-6.7526 r=-0.0000,37.9942,-0.0000 c=100
+
+scene=FarmHouseA
+item=GEAR_GlassShards p=-8.1969,0.8482,-3.8398 r=0.0000,344.1072,0.0000 c=100
+
+scene=FarmHouseB
+item=GEAR_GlassShards p=1.2663,0.0524,3.3683 r=346.9619,307.1250,358.9005 c=100
+
+scene=GreyMothersHouseA
+item=GEAR_GlassShards p=-3.6640,-0.5252,2.9898 r=-0.0000,64.4012,-0.0000 c=100
+
+scene=BunkerA
+item=GEAR_GlassShards p=0.5592,0.1276,11.5363 r=0.0000,338.1784,0.0000 c=100
+
+scene=BunkerB
+item=GEAR_GlassShards p=-7.7303,0.1276,9.0653 r=0.0000,347.0904,0.0000 c=100
+
+scene=HuntingLodgeA
+item=GEAR_GlassShards p=2.0526,0.0230,-0.8905 r=0.0000,285.2358,0.0000 c=100
+
+scene=CampOffice
+item=GEAR_GlassShards p=1.1115,0.0264,3.2463 r=359.5855,282.4350,358.9626 c=100
+
+scene=ConvenienceStoreA
+item=GEAR_GlassShards p=-2.8842,0.0049,2.2145 r=0.0000,359.9714,0.0000 c=100
+
+scene=PrepperCacheF
+item=GEAR_GlassShards p=-0.1706,-0.5939,-1.2329 r=7.8334,11.3319,1.7401 c=100
+
+loottable=LootTableTrash	
+item=GlassShards w=6

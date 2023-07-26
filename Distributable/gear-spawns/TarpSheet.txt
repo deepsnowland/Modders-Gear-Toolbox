@@ -1,0 +1,102 @@
+scene=BlackRockTrailerB
+item=GEAR_TarpSheet p=-2.4173,1.1426,1.6187 r=0.0000,305.0596,0.0000 c=50
+
+scene=Dam
+item=GEAR_TarpSheet p=7.0663,1.0142,-7.7320 r=0.0000,332.0879,0.0000 c=40
+item=GEAR_TarpSheet p=7.3175,0.4018,-10.3871 r=-0.0000,130.5493,-0.0000 c=50
+item=GEAR_TarpSheet p=11.7063,0.8434,-9.0244 r=0.0000,250.5853,0.0000 c=40
+item=GEAR_TarpSheet p=10.3781,0.0029,-15.9709 r=0.0000,345.7821,0.0000 c=50
+
+scene=QuonsetGasStation
+item=GEAR_TarpSheet p=-4.4510,0.0129,1.4263 r=-0.0000,46.0918,-0.0000 c=30
+item=GEAR_TarpSheet p=-4.6093,1.6157,1.7536 r=-0.0000,127.9928,-0.0000 c=20
+item=GEAR_TarpSheet p=3.7009,1.6171,-3.3760 r=0.0000,305.9841,0.0000 c=30
+
+scene=MaintenanceShedA
+item=GEAR_TarpSheet p=-4.5219,-0.6108,-3.4779 r=-0.0000,169.7527,-0.0000 c=40
+item=GEAR_TarpSheet p=8.0582,-1.4558,-11.4510 r=-0.0000,23.4639,-0.0000 c=30
+item=GEAR_TarpSheet p=1.6457,0.9900,-26.3698 r=0.0000,212.6058,0.0000 c=40
+item=GEAR_TarpSheet p=3.9655,0.3396,-25.6798 r=-0.0000,165.0213,-0.0000 c=30
+
+scene=MaintenanceShedB
+item=GEAR_TarpSheet p=-10.6099,0.0064,-18.5893 r=0.0000,272.0665,0.0000 c=30
+item=GEAR_TarpSheet p=4.0563,1.0420,-26.1964 r=-0.0000,69.1778,-0.0000 c=20
+item=GEAR_TarpSheet p=-2.3134,0.8044,-26.6377 r=0.6564,327.0267,1.0118 c=30
+
+scene=DamTransitionZone
+item=GEAR_TarpSheet p=-70.4281,-5.6200,-14.0353 r=0.0000,249.5641,0.0000 c=40
+item=GEAR_TarpSheet p=-88.4187,-6.3396,-17.0459 r=-0.0000,179.6345,-0.0000 c=50
+item=GEAR_TarpSheet p=-82.9163,-8.7516,-0.3560 r=0.0000,233.2476,0.0000 c=40
+item=GEAR_TarpSheet p=-70.1013,-8.7516,4.7498 r=-0.0000,54.5901,-0.0000 c=50
+item=GEAR_TarpSheet p=-45.0951,-8.4223,0.2755 r=0.0000,356.7521,0.0000 c=40
+item=GEAR_TarpSheet p=-45.4071,-7.4183,2.6481 r=0.0000,188.7186,0.0000 c=50
+item=GEAR_TarpSheet p=1.6853,0.3340,0.2191 r=-0.0000,132.8640,-0.0000 c=40
+
+scene=BarnHouseA
+item=GEAR_TarpSheet p=1.8843,0.4152,6.3422 r=-0.0000,171.8244,-0.0000 c=30
+item=GEAR_TarpSheet p=-7.1346,1.6086,-5.1817 r=0.0000,185.3283,0.0000 c=20
+item=GEAR_TarpSheet p=-5.9778,6.1003,-3.8908 r=-0.0000,125.0162,-0.0000 c=30
+
+scene=FarmHouseABasement
+item=GEAR_TapeRoll p=-5.3535,1.8684,-0.3558 r=-0.0000,153.8398,-0.0000 c=50
+item=GEAR_TapeRoll p=-5.3535,1.8684,-0.3558 r=-0.0000,153.8398,-0.0000 c=100
+
+scene=AirfieldRegion
+item=GEAR_TarpSheet p=96.8553,160.5558,-445.7621 r=0.0000,295.2285,0.0000 c=50
+item=GEAR_TarpSheet p=96.8136,161.5928,-451.7105 r=0.0000,283.9301,0.0000 c=40
+
+scene=AFHangar
+item=GEAR_TarpSheet p=20.1465,4.1111,14.8675 r=0.0000,306.5023,0.0000 c=50
+item=GEAR_TarpSheet p=13.0129,5.1220,-18.3991 r=0.0000,285.1827,0.0000 c=40
+item=GEAR_TarpSheet p=-9.5393,5.1135,-18.3528 r=0.0000,302.4759,0.0000 c=30
+item=GEAR_TarpSheet p=-24.0080,4.1134,12.4540 r=0.0000,222.7341,0.0000 c=20
+item=GEAR_TarpSheet p=-25.0290,5.3916,12.4880 r=0.0000,278.9667,0.0000 c=50
+item=GEAR_TarpSheet p=-21.6540,0.0568,1.9805 r=-0.0000,161.6795,-0.0000 c=40
+item=GEAR_TarpSheet p=-14.1247,1.6532,4.1956 r=0.0000,218.5538,0.0000 c=30
+item=GEAR_TarpSheet p=-23.0948,2.5353,-7.1201 r=0.0000,305.7327,0.0000 c=20
+item=GEAR_TarpSheet p=3.6683,1.4638,4.8188 r=0.0000,243.1105,0.0000 c=50
+item=GEAR_TarpSheet p=23.1049,0.1003,-17.9304 r=-0.0000,25.8249,-0.0000 c=40
+item=GEAR_TarpSheet p=11.7024,-6.7600,8.4369 r=0.0000,223.2975,0.0000 c=30
+item=GEAR_TarpSheet p=13.6528,-8.0014,7.0050 r=0.0000,275.7268,0.0000 c=20
+
+scene=HouseBasementC
+item=GEAR_TarpSheet p=2.5124,150.0067,-2.0714 r=-0.0000,80.9084,-0.0000 c=100
+item=GEAR_TarpSheet p=2.4738,150.0973,-2.0936 r=0.0000,203.4187,0.0000 c=50
+
+scene=BunkerA
+item=GEAR_TarpSheet p=10.4630,1.0226,13.2630 r=359.0558,333.1108,357.1652 c=100
+item=GEAR_TarpSheet p=10.4612,1.1135,13.2602 r=359.0558,265.8421,357.1652 c=100
+item=GEAR_TarpSheet p=10.1878,0.1293,13.8772 r=359.0558,299.4296,357.1652 c=100
+
+scene=BunkerB
+item=GEAR_TarpSheet p=-1.3248,0.3950,4.1900 r=0.0000,290.4961,0.0000 c=100
+item=GEAR_TarpSheet p=-1.3822,1.0456,4.4854 r=-0.0000,115.6213,-0.0000 c=100
+item=GEAR_TarpSheet p=-1.3644,1.1362,4.4888 r=0.0000,342.0953,0.0000 c=100
+
+scene=BunkerC
+item=GEAR_TarpSheet p=-0.9325,0.1287,-0.4625 r=-0.0000,11.2088,-0.0000 c=100
+item=GEAR_TarpSheet p=-7.0318,-1.1686,13.3714 r=0.0000,227.5138,0.0000 c=100
+
+scene=HuntingLodgeA
+item=GEAR_TarpSheet p=-5.7683,-3.6634,0.1257 r=-0.0000,10.7561,-0.0000 c=50
+item=GEAR_TarpSheet p=-5.4848,-3.6634,-0.4040 r=-0.0000,92.9393,-0.0000 c=40
+
+scene=WhalingShipA
+item=GEAR_TarpSheet p=0.4331,1.6461,12.1429 r=354.7288,273.2236,51.9230 c=50
+item=GEAR_TarpSheet p=-1.0491,1.3386,3.0102 r=352.5645,300.6566,329.6921 c=40
+item=GEAR_TarpSheet p=-3.8709,1.3575,-1.9236 r=0.0001,356.2216,14.0000 c=30
+item=GEAR_TarpSheet p=-4.2879,1.6483,-6.0278 r=337.4232,107.6912,352.4061 c=20
+
+scene=WhalingWarehouseA
+item=GEAR_TarpSheet p=-8.3213,4.3156,-23.5500 r=0.0000,323.5800,0.0000 c=50
+item=GEAR_TarpSheet p=-7.8284,4.3156,-22.5788 r=-0.0000,102.8551,-0.0000 c=40
+item=GEAR_TarpSheet p=-2.7092,-0.0033,-7.2094 r=0.0000,198.5157,0.0000 c=30
+item=GEAR_TarpSheet p=-2.4329,1.1744,-5.1091 r=0.0000,300.0518,0.0000 c=20
+item=GEAR_TarpSheet p=-1.3829,-0.0033,0.9373 r=-0.0000,5.5789,-0.0000 c=50
+
+loottable=LootTableToolChest
+item=TarpSheet w=6
+loottable=LootTableToolChestDrawer
+item=TarpSheet w=2
+loottable=LootTableWorkbench
+item=TarpSheet w=3

@@ -1,0 +1,30 @@
+scene=AFHangar
+item=GEAR_ScrapPlastic p=-25.8758,4.1036,7.2001 r=0.0000,345.0691,0.0000 c=80
+
+scene=BankA
+item=GEAR_ScrapPlastic p=6.6086,0.0100,-4.8055 r=-0.0000,8.0913,-0.0000 c=80
+
+scene=Dam
+item=GEAR_ScrapPlastic p=-2.0884,0.0000,-1.0871 r=-0.0000,101.3173,-0.0000 c=80
+item=GEAR_ScrapPlastic p=-4.7482,0.0000,-5.8434 r=-0.0000,108.1442,-0.0000 c=60
+item=GEAR_ScrapPlastic p=-17.4560,0.0000,-6.1438 r=-0.0000,179.5157,-0.0000 c=40
+item=GEAR_ScrapPlastic p=-15.9236,0.0000,-13.2959 r=-0.0000,4.1565,-0.0000 c=100
+item=GEAR_ScrapPlastic p=-13.9713,4.6200,-15.4200 r=-0.0000,125.5905,-0.0000 c=80
+
+scene=DamTransitionZone
+item=GEAR_ScrapPlastic p=4.5015,-0.0000,-5.4141 r=0.0000,350.4413,0.0000 c=80
+item=GEAR_ScrapPlastic p=4.1914,0.0100,-5.5617 r=0.0000,210.4594,0.0000 c=60
+item=GEAR_ScrapPlastic p=-3.1503,-0.0000,-7.3680 r=-0.0000,85.0449,-0.0000 c=40
+
+scene=ConvenienceStoreA
+item=GEAR_ScrapPlastic p=-0.9151,0.0000,5.2318 r=0.0000,341.9484,0.0000 c=80
+item=GEAR_ScrapPlastic p=-5.9306,0.0000,-1.3486 r=-0.0000,78.0890,-0.0000 c=60
+item=GEAR_ScrapPlastic p=-5.4811,0.0100,-1.2021 r=0.0000,299.9728,0.0000 c=40
+
+scene=PrepperCacheF
+item=GEAR_ScrapPlastic p=-0.8538,-0.7340,2.9541 r=0.0000,294.6321,0.0000 c=100
+item=GEAR_ScrapPlastic p=0.1056,-0.7340,1.2869 r=-0.0000,120.2158,-0.0000 c=100
+item=GEAR_ScrapPlastic p=0.4355,-0.7240,1.4766 r=0.0000,346.0827,0.0000 c=100
+
+loottable=LootTableTrash
+item=ScrapPlastic w=10
