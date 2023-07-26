@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_StringBundle",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_StringBundleDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVGENERICTINY",
+                                "PutBackAudio" : "PLAY_SNDINVGENERICTINY",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, -60, 0],
+                                "InspectOffset" : [0, -0.05, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_RollSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_RollMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }									
+}

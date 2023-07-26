@@ -1,0 +1,37 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_NutsNBoltsBox",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_NutsNBoltsBoxDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVAMMOCARDBOARDBOX",
+                                "PutBackAudio" : "PLAY_SNDINVAMMOCARDBOARDBOX",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [30, -125, 35],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_BoxSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_BoxMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "PLAY_HARVESTINGCARDBOARD",
+                                "Minutes" : 5,
+                                "YieldCounts" : [4,1],
+                                "YieldNames" : ["GEAR_NutsNBolts", "GEAR_CrumpledPaper"],
+                                "RequiredToolNames" : []
+                            }							 
+}

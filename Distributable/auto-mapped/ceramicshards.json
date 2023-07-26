@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CeramicShards",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CeramicShardsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_TEACUPPICKUP",
+                                "PutBackAudio" : "PLAY_TEACUPPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [15, -115, 30],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HeapSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HeapMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }									
+}

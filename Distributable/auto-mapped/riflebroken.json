@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_RifleBroken",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_RifleBrokenDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 3.8,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Low",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_DRAWRIFLE",
+                                "PutBackAudio" : "PLAY_DRAWRIFLE",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.5,
+                                "InspectAngles" : [-15, 90, -90],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "PLAY_HARVESTINGMETAL",
+                                "Minutes" : 60,
+                                "YieldCounts" : [2,1,3],
+                                "YieldNames" : ["GEAR_ScrapMetal", "GEAR_Hardwood", "GEAR_GunParts"],
+                                "RequiredToolNames" : []
+                            }
+}

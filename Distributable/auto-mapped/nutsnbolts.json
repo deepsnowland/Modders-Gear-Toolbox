@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_NutsNBolts",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_NutsNBoltsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVAMMOCARDBOARDBOX",
+                                "PutBackAudio" : "PLAY_SNDINVAMMOCARDBOARDBOX",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [30, -180, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HeapSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HeapMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }									
+}

@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_Battery9V",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_Battery9VDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVFLASHLIGHTPICKUPA",
+                                "PutBackAudio" : "PLAY_SNDINVFLASHLIGHTPUTBACKA",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [-45, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_BatterySingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_BatteryMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }									
+}
