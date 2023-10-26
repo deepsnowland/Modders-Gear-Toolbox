@@ -19,7 +19,7 @@ GEAR Name | Ingame Name | Mods
 --- | --- | ---
 `GEAR_MetalBoxForge` | Metal Box | *Indoors Greenery*
 `GEAR_StringDurable` | Durable Rope | *None*
-`GEAR_RecycledPlastic`| Processed Plastic | *None*
+`GEAR_RecycledPlastic`| Processed Plastic | *FuelManager*
 `GEAR_RecycledGlass`| Reclaimed Glass | *None*
 
 **Tools**
@@ -37,7 +37,7 @@ GEAR Name | Ingame Name | Mods
 `GEAR_StringBundle` | String Bundle | *Indoors Greenery*
 `GEAR_GunParts` | Gun Parts | *None*
 `GEAR_NutsNBolts` | Nuts and Bolts | *Camping Tools*
-`GEAR_ScrapPlastic` | Plastic Waste | *None*
+`GEAR_ScrapPlastic` | Plastic Waste | *FuelManager*
 `GEAR_TarpSheet` | Tarp Sheet | *Camping Tools*
 `GEAR_ElectronicParts` | Electronic Parts | *Indoors Greenery*
 
