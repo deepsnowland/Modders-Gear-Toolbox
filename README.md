@@ -18,28 +18,28 @@ Materials, tools and functionalities will be added on request.
 GEAR Name | Ingame Name | Mods
 --- | --- | ---
 `GEAR_MetalBoxForge` | Metal Box | *Indoors Greenery*
-`GEAR_StringDurable` | Durable Rope | *None*
-`GEAR_RecycledPlastic`| Processed Plastic | *FuelManager*
-`GEAR_RecycledGlass`| Reclaimed Glass | *None*
+`GEAR_StringDurable` | Durable Rope | *ToolsUpgrade*
+`GEAR_RecycledPlastic`| Processed Plastic | *FuelManager, ToolsUpgrade*
+`GEAR_RecycledGlass`| Reclaimed Glass | *ToolsUpgrade*
 
 **Tools**
 GEAR Name | Ingame Name | Mods
 --- | --- | ---
-`GEAR_TapeRoll` | Tape Roll | *Indoors Greenery, Camping Tools*
+`GEAR_TapeRoll` | Tape Roll | *Indoors Greenery, Camping Tools, ToolsUpgrade*
 
 **Man-Made materials**
 GEAR Name | Ingame Name | Mods
 --- | --- | ---
-`GEAR_Battery9V` | Battery | *Indoors Greenery*
+`GEAR_Battery9V` | Battery | *Indoors Greenery, ToolsUpgrade*
 `GEAR_CrumpledPaper` | Scrap Paper | *None*
 `GEAR_CeramicShards` | Ceramic Shards: | *None*
-`GEAR_GlassShards` | Glass Shards | *None*
-`GEAR_StringBundle` | String Bundle | *Indoors Greenery*
-`GEAR_GunParts` | Gun Parts | *None*
-`GEAR_NutsNBolts` | Nuts and Bolts | *Camping Tools*
-`GEAR_ScrapPlastic` | Plastic Waste | *FuelManager*
+`GEAR_GlassShards` | Glass Shards | *ToolsUpgrade*
+`GEAR_StringBundle` | String Bundle | *Indoors Greenery, ToolsUpgrade*
+`GEAR_GunParts` | Gun Parts | *ToolsUpgrade*
+`GEAR_NutsNBolts` | Nuts and Bolts | *Camping Tools, ToolsUpgrade*
+`GEAR_ScrapPlastic` | Plastic Waste | *FuelManager, ToolsUpgrade*
 `GEAR_TarpSheet` | Tarp Sheet | *Camping Tools*
-`GEAR_ElectronicParts` | Electronic Parts | *Indoors Greenery*
+`GEAR_ElectronicParts` | Electronic Parts | *Indoors Greenery, ToolsUpgrade*
 
 **Natural Materials**
 GEAR Name | Ingame Name | Mods
@@ -51,7 +51,7 @@ GEAR Name | Ingame Name | Mods
 **Harvestables**
 GEAR Name | Ingame Name | Mods
 --- | --- | ---
-`GEAR_NutsNBoltsBox` | Nuts and Bolts Box | *Camping Tools*
+`GEAR_NutsNBoltsBox` | Nuts and Bolts Box | *Camping Tools, ToolsUpgrade*
 `GEAR_RifleBroken` | Broken Rifle | *None*
 
 **Functionalities**
