@@ -63,6 +63,12 @@ GEAR Name | Ingame Name | Mods
  * Download latest ModdersGearToolbox.zip file in releases, unzip, drop both .modcomponent and .dll files in the mod folder and enjoy!
  * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
 
+## Credits
+* Russian localization by [Tyler-Sky](https://github.com/Tyler-Sky).
+* French (France) localization by [whismerhill](https://github.com/whismerhill).
+* Italian localization by [LettereUniche](https://github.com/LettereUniche).
+* Turkish localization by [Elderly-Emre](https://github.com/Elderly-Emre) and [kralrindo](https://github.com/kralrindo).
+
 ## Troubleshooting
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
