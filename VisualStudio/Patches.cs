@@ -2,6 +2,7 @@
 using HarmonyLib;
 using UnityEngine;
 using Il2CppSteamworks;
+using MelonLoader;
 
 namespace GearToolbox
 {
@@ -83,22 +84,79 @@ namespace GearToolbox
             private static void Postfix(Panel_BodyHarvest __instance)
             {
                 GearItem thisMeat = __instance.m_BodyHarvest.m_MeatPrefab.GetComponent<GearItem>();
-                float harvestAmount = __instance.m_MenuItem_Meat.m_HarvestAmount;
+                int tries = 0;
                 int bones = 0;
                 bool msgAdded = false;
-                if (harvestAmount > 0 && Settings.instance.noBones == false)
+
+                if (thisMeat != null && Settings.instance.noBones == false)
                 {
                     if (thisMeat.name.ToLowerInvariant().Contains("ptarmigan") || thisMeat.name.ToLowerInvariant().Contains("rabbit") || thisMeat.name.ToLowerInvariant().Contains("bird"))
                     {
-                        bones = 1;
+                        tries = 3;
                     }
-                    else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer"))
+                    else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer") || thisMeat.name.ToLowerInvariant().Contains("cougar"))
                     {
-                        bones = 2;
+                        tries = 12;
                     }
                     else if (thisMeat.name.ToLowerInvariant().Contains("bear") || thisMeat.name.ToLowerInvariant().Contains("moose") || thisMeat.name.ToLowerInvariant().Contains("orca"))
                     {
-                        bones = 1;
+                        tries = 26;
+                    }
+                    for (int i = 0; i < tries; i++)
+                    {
+                        if (Utils.RollChance(50f))
+                        {
+                            bones++;
+                        }
+                    }
+                    for (int  j = 0; j < bones; j++)
+                    {
+                        GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(ToolboxUtils.bones, 1, 1f, PlayerManager.InventoryInstantiateFlags.None);
+                        if (!msgAdded)
+                        {
+                            msgAdded = true;
+                            string message = string.Concat(new object[] { ToolboxUtils.bones.DisplayName, " (", bones, ")" });
+                            GearMessage.AddMessage(ToolboxUtils.bones.name, Localization.Get("GAMEPLAY_Harvested"), message, false, true);
+                        }
+                    }
+                  
+                }
+            }
+        }
+       /* [HarmonyPatch(typeof(Panel_BodyHarvest), "TransferMeatFromCarcassToInventory")]
+        internal class HarvestBones
+        {
+            private static void Postfix(Panel_BodyHarvest __instance)
+            {
+                GearItem thisMeat = __instance.m_BodyHarvest.m_MeatPrefab.GetComponent<GearItem>();
+                float harvestAmount = 0;
+                int bones = 0;
+                bool msgAdded = false;
+                if (Settings.instance.noBones == false)
+                {
+                    if (thisMeat.name.ToLowerInvariant().Contains("ptarmigan") || thisMeat.name.ToLowerInvariant().Contains("rabbit") || thisMeat.name.ToLowerInvariant().Contains("bird"))
+                    {
+                        harvestAmount = 5f;
+                        if (Utils.RollChance(70f))
+                        {
+                            bones = 1;
+                        }                    
+                    }
+                    else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer"))
+                    {
+                        harvestAmount = 15f;
+                        if (Utils.RollChance(50f))
+                        {
+                            bones = 1;
+                        }
+                    }
+                    else if (thisMeat.name.ToLowerInvariant().Contains("bear") || thisMeat.name.ToLowerInvariant().Contains("moose") || thisMeat.name.ToLowerInvariant().Contains("orca"))
+                    {
+                        harvestAmount = 30f;
+                        if (Utils.RollChance(30f))
+                        {
+                            bones = 1;
+                        }
                     }
 
                     for (int i = 1; i <= harvestAmount; i++)
@@ -116,7 +174,7 @@ namespace GearToolbox
                     }
                 }
             }
-        }
+        }*/
     }
 }
 

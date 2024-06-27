@@ -17,6 +17,14 @@ namespace GearToolbox
         public static GearItem tools2 = Addressables.LoadAssetAsync<GameObject>("GEAR_HighQualityTools").WaitForCompletion().GetComponent<GearItem>();
         public static GearItem bundleString = Addressables.LoadAssetAsync<GameObject>("GEAR_StringBundle").WaitForCompletion().GetComponent<GearItem>();
 
+        public static void LaunchGearToolbox()
+        {
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Breaking down objects...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Distributing scrap materials...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Taperolling...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Green, "Gear Toolbox v1.0.3 Loaded!");
+            Settings.instance.AddToModSettings("Modders' Gear Toolbox");
+        }
         public static GameObject GetPlayer()
         {
             return GameManager.GetPlayerObject();
