@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_RecycledGlass",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_RecycledGlassDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.20,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVCUP",
+                                "PutBackAudio" : "PLAY_SNDINVCUP",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.8,
+                                "InspectAngles" : [10.5, 100.7, -44],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_SheetSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_SheetMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }	
+}

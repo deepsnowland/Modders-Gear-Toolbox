@@ -20,6 +20,13 @@
                                 "NormalModel" : "",
                                 "InspectModel" : ""
                             },
+							    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_RockCache",
+                                "Minutes" : 30,
+                                "YieldCounts" : [3],
+                                "YieldNames" : ["GEAR_Stone"],
+                                "RequiredToolNames" : ["GEAR_Hammer"]
+                            },
     "ModStackableBehaviour": {
                                 "SingleUnitTextId" : "GAMEPLAY_ChunkSingle",
                                 "MultipleUnitTextId" : "GAMEPLAY_ChunkMultiple",

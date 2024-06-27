@@ -1,0 +1,16 @@
+{
+    "Name": "Glass",
+    "RequiredGear": [{"Item": "GEAR_GlassShards", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RecycledGlass",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CRAFTINGFORGE",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Plastic",
+    "RequiredGear": [{"Item": "GEAR_ScrapPlastic", "Count": 3}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RecycledPlastic",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

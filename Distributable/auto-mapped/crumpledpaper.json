@@ -20,6 +20,10 @@
                                 "NormalModel" : "",
                                 "InspectModel" : ""
                             },
+    "ModTinderBehaviour": 	{
+                                "DurationOffset" : 0,
+                                "SuccessModifier" : 20
+                            },
     "ModStackableBehaviour": {
                                 "SingleUnitTextId" : "GAMEPLAY_SheetSingle",
                                 "MultipleUnitTextId" : "GAMEPLAY_SheetMultiple",
